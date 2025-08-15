@@ -1,55 +1,31 @@
-<!-- Banner de boas-vindas -->
-<h1 align="center">Olá 👋, eu sou a Mariane Santos</h1>
-<h3 align="center">Professora e futura Desenvolvedora Python</h3>
+# 👋 Olá! Eu sou a Mariane Santos de Souza
+
+💻 **Desenvolvedora Python em formação** | **Análise de Dados**  
+🚀 Em transição de carreira para tecnologia, aplicando conhecimentos em projetos práticos e de impacto.  
+📚 Atualmente estudando: Python, Análise de Dados, Streamlit, Git e GitHub.  
 
 ---
 
-<!-- Contador de visitas -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=marianess2025&label=Visualizações&color=blue&style=flat" alt="contador de visitas"/>
-</p>
-
-<!-- Estatísticas do GitHub -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marianess2025&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub"/>
-</p>
-
-<!-- Linguagens mais usadas -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianess2025&layout=compact&theme=tokyonight" alt="Linguagens mais usadas"/>
-</p>
+## 🚀 Habilidades
+- **Linguagens:** Python (Pandas, NumPy, Matplotlib)
+- **Ferramentas:** Git, GitHub, VS Code, Google Colab
+- **Competências:** Análise e visualização de dados, automação de tarefas, organização e documentação de projetos
 
 ---
 
-### 🚀 Sobre mim  
-- 🎯 Atualmente estudando **Python e Ciência de Dados**  
-- 📚 Experiência como professora de Ciências e interesse em tecnologia  
-- 💼 Aberta a oportunidades como **Desenvolvedora Júnior**  
-- 📩 Contato: **seuemail@gmail.com**
+## 📌 Projetos em destaque
+- [**Imersão Dados com Python**](https://github.com/marianess2025/imersao-dados-python) – Análise e visualização de dados reais usando Pandas e Matplotlib
+- *(Em breve novos projetos)*
 
 ---
 
-### 🛠 Tecnologias e Ferramentas  
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-</p>
+## 📊 O que estou buscando
+- Oportunidades para atuar como **Desenvolvedora Júnior** ou **Analista de Dados**
+- Colaboração em projetos open source
+- Aprendizado contínuo e troca de experiências
 
 ---
 
-### 🌎 Conecte-se comigo  
-<p align="center">
-  <a href="https://www.linkedin.com/in/mariane-santos-de-souza-1b856821b/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/marianess2025" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+📫 **Vamos conversar?**  
+[LinkedIn](https://www.linkedin.com/in/mariane-santos-de-souza-1b856821b/) | 📧 marianesofia2020@gmail.com
 
----
-
-✨ *Feito com dedicação por [Mariane Santos](https://github.com/marianess2025)* ✨
